@@ -1,0 +1,25 @@
+{
+  "name": "masks-js",
+  "version": "0.0.1",
+  "description": "A npm package that exports functions to mask values",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miles-yan/masks-js.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "masks",
+    "javascript"
+  ],
+  "author": "miles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miles-yan/masks-js/issues"
+  },
+  "homepage": "https://github.com/miles-yan/masks-js#readme"
+}
